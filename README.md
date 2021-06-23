@@ -11,19 +11,20 @@ Schedule
 
 **Wednesday, June 30, 2021**
 
-    11:30 am – 11:45 am EST - Introduction
-    11:45 am – 12:45 pm EST - Synaptic Physiology (Luke Campagnola)
-    12:45 pm – 1:00 pm EST  - Break
-    1:00 pm – 2:00 pm EST   - Visual Coding 2-photon (Saskia de Vries)
-    2:00 pm – 3:00 pm EST   - Visual Coding Neuropixels (Josh Siegle)
+    11:30 am – 11:45 am EST   Introduction
+    11:45 am – 12:45 pm EST   Synaptic Physiology (Luke Campagnola)
+    12:45 pm – 1:00 pm EST    Break
+    1:00 pm – 2:00 pm EST     Visual Coding 2-photon (Saskia de Vries)
+    2:00 pm – 3:00 pm EST     Visual Coding Neuropixels (Josh Siegle)
 
 **Thursday, July 1, 2021**
 
-    11:30 am – 11:45 am EST - Introduction
-    11:45 am – 12:45 pm EST - PatchSeq (Nathan Gouwens)
-    12:45 pm – 1:00 pm EST  - Break
-    1:00 pm – 2:00 pm EST   - Visual Behavior (Alex Piet)
-    2:00 pm – 3:00 pm EST   - Bio-realistic model of the mouse primary visual cortex (Anton Arkhipov and Kael Dai)
+    11:30 am – 11:45 am EST   Introduction
+    11:45 am – 12:45 pm EST   PatchSeq (Nathan Gouwens)
+    12:45 pm – 1:00 pm EST    Break
+    1:00 pm – 2:00 pm EST     Visual Behavior (Alex Piet)
+    2:00 pm – 3:00 pm EST     Bio-realistic model of the mouse primary visual cortex 
+                              (Anton Arkhipov and Kael Dai)
 
 
 Resources Covered
