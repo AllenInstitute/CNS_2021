@@ -1,7 +1,6 @@
 # Biorealistic Modeling with the Brain Modeling Toolkit
 
-![image info](./sources/v1_neuropixel_probe.png){ width=50% }
-
+![Models of the Mouse V1 with a Neuropixels Probe](./assets/mousev1.png)
 
 In this tutorial we will show how to use the [Brain Modeling Toolkit (BMTK)](https://alleninstitute.github.io/bmtk/) and
 [SONATA data format](https://github.com/AllenInstitute/sonata) to build, simulate, and distribute large-scale circuit
@@ -17,7 +16,10 @@ which includes instructions how to run the tutorial and install BMTK on your own
 
 * [More documentation, examples and tutorials of the BMTK](https://alleninstitute.github.io/bmtk/)
 
+* [The SONATA Data Formats](https://github.com/AllenInstitute/sonata)
+
 * [Models of the Mouse Mouse Primary Visual Cortex](https://portal.brain-map.org/explore/models/mv1-all-layers)
 
 * [Model of Layer 4 of the Mouse Primary Visual Cortex](https://portal.brain-map.org/explore/models/l4-mv1)
 
+* [Visual Neural Dynamics (VND) - A tool for visualizing large-scale networks and simulations](http://www.ks.uiuc.edu/Research/vnd/)
